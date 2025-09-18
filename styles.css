@@ -59,10 +59,11 @@ div#about
 {
     border: 4px #000000;
 
-    img {
-  width: 300px; 
-  height: 200px; 
-}
+    img 
+    {
+        width: 300px; 
+        height: 200px; 
+    }
 }
 
 p 
@@ -165,5 +166,12 @@ legend
   text-transform: uppercase;
 }
 
+footer
+{
+  padding: 20px;
+}
 
-
+#skills
+{
+  padding: 20px;
+}
